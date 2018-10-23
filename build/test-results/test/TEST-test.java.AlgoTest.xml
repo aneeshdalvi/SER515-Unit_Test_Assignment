@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgoTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-10-22T04:29:34" hostname="Aneesh" time="0.026">
+  <properties/>
+  <testcase name="testNullInputonBubble" classname="test.java.AlgoTest" time="0.014"/>
+  <testcase name="testNullInputonSelection" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testAllSortingAlgos" classname="test.java.AlgoTest" time="0.002"/>
+  <testcase name="testNullInputonHeap" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testNumberFormatInput" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testNullInputonMerge" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testNullInputonQuick" classname="test.java.AlgoTest" time="0.003"/>
+  <testcase name="testNullInputonInsertion" classname="test.java.AlgoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
